@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "hybrid-app-hello-world",
+    "slug": "hybrid-app-hello-world"
+  }
+}
